@@ -62,7 +62,6 @@ do {
         default:
             console.log("Digite uma opção valida!");
             break;
-
     }
 
     continuar = prompt("Deseja Continuar ver outros exercícios? Digite (S) para sim e (N) para não: ")
